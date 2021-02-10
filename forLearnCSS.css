@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: rgb(68, 67, 67);
+    color: white;
+    font-size: 50px;
+}
+
+ul{
+    background-color: rgb(68, 67, 67);
+}
+
+li{
+    list-style-type: upper-roman;
+    font-size: 20px;
+    color: white;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    background-color: rgb(124, 93, 93);
+    text-decoration: none;
+}
+
+img:hover{
+    position: relative;
+    top: -5px;
+}
+
